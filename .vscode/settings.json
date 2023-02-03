@@ -1,6 +1,10 @@
 {
     "cSpell.words": [
         "fontsource",
-        "roboto"
-    ]
+        "roboto",
+        "webfonts"
+    ],
+    "Codegeex.DisabledFor": {
+        "javascript": true
+    }
 }
